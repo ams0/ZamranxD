@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-![k](https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet)
 
 <br />
 <br />
