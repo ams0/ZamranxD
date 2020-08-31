@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-![](https://komarev.com/ghpvc/?username=ZamranxD&color=violet)
+![](https://komarev.com/ghpvc/?username=ZamranxD&color=blue)
 
 <br />
 <br />
