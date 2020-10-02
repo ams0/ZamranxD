@@ -39,7 +39,7 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
+- 👨🏽‍💻 I’m currently working as a TSA at Citrus Tech Solutions.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
