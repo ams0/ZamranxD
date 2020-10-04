@@ -1,6 +1,7 @@
 
 <div align="center">
 <h1 title="hehehe"> Hey 👋, I'm Zamran!</h1>
+</div>
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,7 +12,7 @@
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
-</div>
+
 
 
 
