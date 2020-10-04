@@ -1,7 +1,6 @@
 
 <div align="center">
 <h1 title="hehehe"> Hey 👋, I'm Zamran!</h1>
-</div>
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +11,8 @@
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+</div>
+
 
 
 
@@ -24,7 +25,7 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Citrus Tech Solutions.
+- 👨🏽‍💻 I’m currently working as a Tele-Sales Agent at Citrus Tech Solutions.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
